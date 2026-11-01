@@ -21,3 +21,4 @@ public class AverageCalculator {
         scanner.close();
     }
 }
+// Nnadiekwe Chikamso Wilson 25/18099
